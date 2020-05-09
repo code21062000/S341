@@ -1,0 +1,18 @@
+body{
+background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(img/medicine4.jpg);
+background-size: cover;
+background-position: center;
+height: 100%;
+}
+.topright {
+  position: absolute;
+  top: 3px;
+  right: 5px;
+  font-size: 15px;
+ /* border-radius:4px !important;*/
+}
+.topleft{
+  font-size: 20px !important;
+  top: 3px;
+  left: 5px;
+}
